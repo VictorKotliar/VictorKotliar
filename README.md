@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Victor</h1>
-<h3 align="center">A passionate Computer scienece from the University of Israel</h3>
+<h3 align="center">A passionate Computer science from the University of Israel</h3>
 
 - 👨‍💻 All of my projects are available here in my github profile
 
