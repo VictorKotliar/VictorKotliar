@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **steamsnir@gmail.com**
 
-- 📄Here is my Linkdin [https://www.linkedin.com/in/victor-kotliar/](https://www.linkedin.com/in/victor-kotliar/)
+- 📄Here is my Linkdin [https://www.linkedin.com/in/victor-kotliar](https://www.linkedin.com/in/victor-kotliar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
